@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "fail script"
+echo "fail script."
 exit 1
