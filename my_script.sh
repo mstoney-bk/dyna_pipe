@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo "hello world"
+echo "fail script"
+exit 1
