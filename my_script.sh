@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "fail script."
+echo "ignore script."
 exit 1
