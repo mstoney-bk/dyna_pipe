@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "ignore script."
-exit 1
+echo "dummyscript"
+exit 0
