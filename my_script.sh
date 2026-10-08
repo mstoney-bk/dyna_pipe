@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo $BUILDKITE_COMMAND_EXIT_STATUS
+exit 1
