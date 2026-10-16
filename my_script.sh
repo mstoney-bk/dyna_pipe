@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "mummyyscript"
+echo "dummyyscript"
 exit 0
