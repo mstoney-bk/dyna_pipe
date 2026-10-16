@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "crumbyscript"
+echo "mummyyscript"
 exit 0
