@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "dummyscript"
+echo "crumbyscript"
 exit 0
