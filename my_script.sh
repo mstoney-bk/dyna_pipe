@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "bummyscript"
+echo "dummyscript"
 exit 0
